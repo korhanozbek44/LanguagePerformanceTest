@@ -1,0 +1,14 @@
+/Users/korhanozbek/Desktop/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/korhanozbek/Desktop/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/korhanozbek/Desktop/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/korhanozbek/Desktop/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/korhanozbek/Desktop/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.RazorAssemblyInfo.cache
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.RazorAssemblyInfo.cs
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.RazorTargetAssemblyInfo.cache
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/korhanozbek/Desktop/test/obj/Debug/netcoreapp2.1/test.pdb
